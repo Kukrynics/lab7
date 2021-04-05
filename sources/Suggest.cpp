@@ -1,4 +1,4 @@
-// Copyright 2020 ivan <ikhonyak@gmail.com>
+// Copyright 2021 vlad <Kukrynics@yandex.ru>
 #include "Suggest.hpp"
 
 boost::shared_mutex m;

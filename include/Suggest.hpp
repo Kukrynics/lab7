@@ -1,5 +1,4 @@
-// Copyright 2020 ivan <ikhonyak@gmail.com>
-
+// Copyright 2021 vlad <Kukrynics@yandex.ru>
 #include <algorithm>
 #include <boost/array.hpp>
 #include <boost/asio.hpp>
