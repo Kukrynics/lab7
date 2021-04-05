@@ -1,5 +1,5 @@
 // Copyright 2021 vlad <Kukrynics@yandex.ru>
-// #include <Suggest.hpp>
+#include <Suggest.hpp>
 
 int main(int argc, char *argv[]) {
   Server A;
